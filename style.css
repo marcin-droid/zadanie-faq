@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+hr {
+    width: 100px;
+}
+
+.card-header .btn-link {
+    color: orange;
+}
+
+.card-header .btn-link:hover {
+    color: gray;
+}
